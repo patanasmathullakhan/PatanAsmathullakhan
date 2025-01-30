@@ -1,3 +1,4 @@
+![logo](https://github.com/patanasmathullakhan/PatanAsmathullakhan/blob/main/my%20Banner.png)
 <h1 align="center">Hi 👋, I'm Asmathulla khan</h1>
 <h3 align="center">Computer Science Student | Passionate about AI & Machine Learning</h3>
 
